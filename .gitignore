@@ -14,3 +14,4 @@
 /target/*
 /src/main/webapp/WEB-INF/classes/*
 /src/main/webapp/userfiles/*
+/src/main/webapp/upload/*
